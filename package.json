@@ -1,0 +1,30 @@
+{
+  "name": "amd-externals-plugin",
+  "version": "0.0.1",
+  "description": "amd-externals-plugin",
+  "repository": "http://github.alibaba-inc.com/zhoujianlin8/amd-externals-plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "licenses": "MIT",
+  "keyword": [
+    "amd",
+    "webpack",
+    "plugin"
+  ],
+  "author": {
+    "name": "zhoujianlin8",
+    "email": "zhoujianlin8@gmail.com"
+  },
+
+  "dependencies": { 
+  },
+  "maintainers": [
+    {
+      "name": "jianlin.zjl",
+      "email": "jianlin.zjl@alibaba-inc.com"
+    }
+  ],
+  "readmeFilename": "README.md"
+}
